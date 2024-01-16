@@ -1,2 +1,3 @@
 # Firstrepo
-This is my repository
+This is my first git repository
+Author - patilveer66
